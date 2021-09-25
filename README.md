@@ -1,4 +1,4 @@
-### My GitHub Stats
+## Hi, I'm Ilya Sokolov (aka RedByte)
 <p align="center">
   <table>
   <tr>
@@ -7,3 +7,28 @@
   </tr>   
 </table>
 </p>
+
+##Shortly about me
+```kotlin
+val redByte = developer {
+    about {
+        name = "Ilya Sokolov"
+        company = Kaspersky
+    }
+    links {
+        telegram = "@red_byte"
+    }
+}
+```
+
+>My main activity is development for Android, but I also really like experimenting with programming languages and other technologies other than mobile development.
+
+
+```
+#####  ###### #####          #####  #   # ##### ###### 
+#    # #      #    #         #    #  # #    #   #      
+#    # #####  #    #         #####    #     #   #####  
+#####  #      #    #         #    #   #     #   #      
+#   #  #      #    #         #    #   #     #   #      
+#    # ###### #####  ####### #####    #     #   ###### 
+```
