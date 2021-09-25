@@ -8,7 +8,8 @@
 </table>
 </p>
 
-##Shortly about me
+## Shortly about me
+
 ```kotlin
 val redByte = developer {
     about {
