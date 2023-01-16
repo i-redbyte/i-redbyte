@@ -1,5 +1,5 @@
 ## Hi, I'm Ilya Sokolov (aka RedByte)
-<p align="center">
+<!-- <p align="center">
   <table>
   <tr>
       <td>
@@ -15,7 +15,7 @@
     </td>
   </tr>   
 </table>
-</p>
+</p> -->
 
 ## Shortly about me
 
