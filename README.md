@@ -1,4 +1,5 @@
 ## Hi, I'm Ilya Sokolov (aka RedByte)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-redbyte)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p align="center">
   <table>
   <tr>
