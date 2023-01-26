@@ -1,12 +1,22 @@
 ## Hi, I'm Ilya Sokolov (aka RedByte)
-<p align="left">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&layout=compact&theme=tokyonight)
-</p>
-<p align="right">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=tokyonight)
-</p>
 
-
+<p align="center">
+  <table>
+  <tr>
+      <td>
+        <img 
+             width="550px" 
+             align="left" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&layout=compact&theme=tokyonight"/>
+    </td>
+      <td>
+        <img 
+             width="550px" 
+             src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=tokyonight" />
+    </td>
+  </tr>   
+</table>
+</p>
 
 ## Shortly about me
 
