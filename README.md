@@ -7,7 +7,7 @@
         <img 
              width="550px" 
              align="left" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&layout=compact&theme=tokyonight"/>
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&langs_count=12&layout=compact&theme=tokyonight"/>
     </td>
       <td>
         <img 
