@@ -1,6 +1,8 @@
 ## Hi, I'm Ilya Sokolov (aka RedByte)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&layout=compact&theme=tokyonight)
+
 ## Shortly about me
 
 ```kotlin
