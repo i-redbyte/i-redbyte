@@ -24,7 +24,7 @@
 val redByte = developer {
     about {
         name = "Ilya Sokolov"
-        company = Kaspersky
+        company = MTS
     }
     links {
         telegram = "@red_byte"
