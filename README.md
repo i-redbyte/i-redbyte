@@ -23,8 +23,8 @@
 ```kotlin
 val redByte = developer {
     about {
-        name = "Ilya Sokolov"
-        company = Tinkoff
+        name = "Ilya"
+        surname = "Sokolov"
     }
     links {
         telegram = "@red_byte"
