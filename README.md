@@ -7,12 +7,12 @@
         <img 
              width="550px" 
              align="left" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&langs_count=12&layout=compact&theme=tokyonight"/>
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&langs_count=8&layout=compact&theme=dracula"/>
     </td>
       <td>
         <img 
              width="550px" 
-             src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=tokyonight" />
+             src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=dracula" />
     </td>
   </tr>   
 </table>
