@@ -1,6 +1,6 @@
 ## Hi, I'm Ilya Sokolov (aka RedByte)
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&langs_count=10&layout=compact&theme=cobalt" width="420"/> | <img src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=dracula"  width="690"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redbyte&langs_count=12&layout=compact&theme=tokyonight" width="800ppx"/> | <img src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=tokyonight"  width="1000ppx"/> |
 |:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 
 
