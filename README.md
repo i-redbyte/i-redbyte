@@ -11,7 +11,7 @@
     </td>
       <td>
         <img 
-             width="940px" 
+             width="950px" 
              src="https://github-readme-stats.vercel.app/api?username=i-redbyte&count_private=true&theme=dark" />
     </td>
   </tr>   
