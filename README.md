@@ -1,4 +1,4 @@
-## Hi, I'm Ilya Sokolov (aka RedByte)
+## Hi, I'm Ilya Sokolov (aka red_byte)
 
 <p align="center">
   <table>
