@@ -30,45 +30,20 @@ val redByte = engineer {
             language = Kotlin
             ui = listOf(JetpackCompose, XmlViews)
             async = Coroutines + Flow
-
-            architecture = listOf(
-                "MV*",  
-                "Clean", 
-                "multi-module", 
-                "SOLID pragmatism"
-                )
-
-            storage = listOf(
-                "Room", 
-                "SQLite", 
-                "DataStore", 
-                "Realm"
-                )
-
+            architecture = listOf("MV*", "Clean", "multi-module", "SOLID pragmatism")
+            storage = listOf("Room", "SQLite", "DataStore", "Realm")
             performance = listOf(
-                "profiling", 
-                "startup time",
-                 "memory/leaks",
-                 "ANR/Jank hunting", 
-                 "battery/network efficiency"
+                "profiling", "startup time","memory/leaks",
+                 "ANR/Jank hunting", "battery/network efficiency"
                  )
-
-            tooling = listOf(
-                "Gradle",
-                "CI/CD",
-                "lint/format",
-                "benchmarking",
-                "crash monitoring"
-                )
+            tooling = listOf("Gradle", "CI/CD", "lint/format", "benchmarking", "crash monitoring")
         }
     }
 
     alsoInterestedIn {
         systems {
             topics = listOf(
-                "NDK",
-                "reverse engineering",
-                "security",
+                "NDK", "reverse engineering", "security",
                 "how compilers work",
                 "classic algorithms & data structures"
                 )
