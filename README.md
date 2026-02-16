@@ -1,15 +1,6 @@
-<!-- Profile README for @i-redbyte -->
-
 <div align="center">
-
-# Ilya Sokolov (red_byte)
 <code>Android Engineer</code> · <code>systems-curious</code> · <code>embedded</code>
-
-Telegram: <b>@red_byte</b>
-
 </div>
-
-
 
 ```kotlin
 val redByte = engineer {
@@ -17,12 +8,6 @@ val redByte = engineer {
         name = "Ilya"
         surname = "Sokolov"
         nick = "red_byte"
-        tag = "0xBAD0C0DE"
-    }
-
-    contacts {
-        telegram = "@red_byte"
-        github = "https://github.com/i-redbyte"
     }
 
     primary {
@@ -32,10 +17,8 @@ val redByte = engineer {
             async = Coroutines + Flow
             architecture = listOf("MV*", "Clean", "multi-module", "SOLID pragmatism")
             storage = listOf("Room", "SQLite", "DataStore", "Realm")
-            performance = listOf(
-                "profiling", "startup time","memory/leaks",
-                 "ANR/Jank hunting", "battery/network efficiency"
-                 )
+            performance = listOf("profiling", "startup time","memory/leaks",
+                                 "ANR/Jank hunting", "battery/network efficiency")
             tooling = listOf("Gradle", "CI/CD", "lint/format", "benchmarking", "crash monitoring")
         }
     }
@@ -90,9 +73,16 @@ val redByte = engineer {
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
+<div align="center">
+
+Telegram: [<b>@red_byte</b>](https://t.me/red_byte)
+    
 ```text
 +----------------------------------------------+
 |  sig: 0xBAD0C0DE                              |
 |  bin: 1011 1010 1101 0000 1100 0000 1101 1110 |
 +----------------------------------------------+
 ```
+    
+</div>
+
